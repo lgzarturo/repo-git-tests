@@ -27,3 +27,6 @@ body,
 <%%- x = 1 + 2 -%%>
 <%% value = 'real string #{@value}' %%>
 <%%= available_things.inspect %%>
+
+
+lasdaksdklaº
